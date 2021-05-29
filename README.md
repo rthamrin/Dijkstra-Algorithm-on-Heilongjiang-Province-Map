@@ -1,1 +1,1 @@
-# Dikstra-Algorihm-on-Heilongjiang-Province-Map
+# Dikstra-Algorithm-on-Heilongjiang-Province-Map
